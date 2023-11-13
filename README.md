@@ -1,6 +1,6 @@
 # Scraping-Putusan-Narkotika
 
-Selamat datang di repositori "Dataset-Narkotika" yang telah saya susun. Saya adalah Ulul Fikri, dan anggota saya Muhammad Reza Syahfahlevi,dari Universitas Muhammadiyah Malang dengan NIM 202010370311260. Repositori ini merupakan bagian dari tugas dataset putusan pidana khusus yang terkait dengan pengadilan negeri Mojokerto
+Selamat datang di repositori "Dataset-Narkotika" yang telah saya susun. Saya adalah Ulul Fikri, dan anggota saya Muhammad Reza Syahfahlevi,dari Universitas Muhammadiyah Malang dengan NIM 202010370311278, dan anggota saya 202010370311260 Repositori ini merupakan bagian dari tugas dataset putusan pidana khusus yang terkait dengan pengadilan negeri Mojokerto
 
 Dalam repositori ini, terdapat dua folder utama, yaitu "/Dataset" dan "Overview," yang berisi informasi penting terkait dengan putusan-putusan khusus dalam kasus Narkotika di pengadilan negeri tersebut.
 
